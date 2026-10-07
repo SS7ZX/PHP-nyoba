@@ -77,6 +77,11 @@ class Home extends BaseController
                         'payment'         => $payment,
                         'change'           => $payment - $total,
                     ];
+
+                    $customer = '';
+                    $coffee = 'americano';
+                    $quantity = '1';
+                    $payment = '';
                 }
             }
         }

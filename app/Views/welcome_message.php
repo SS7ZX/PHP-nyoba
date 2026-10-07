@@ -21,7 +21,6 @@
         }
         .wrap { width: min(960px, calc(100% - 32px)); margin: 0 auto; }
         .brand { margin: 0; font-size: 1.8rem; }
-        .tagline { margin: 8px 0 0; color: #e7d7c7; }
         main { padding: 30px 0 48px; }
         .layout { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; align-items: start; }
         .panel {
@@ -81,7 +80,6 @@
 <header>
     <div class="wrap">
         <p class="brand">Kedai Kopi Senja</p>
-        <p class="tagline">Kopi sederhana, hitungan jelas.</p>
     </div>
 </header>
 
