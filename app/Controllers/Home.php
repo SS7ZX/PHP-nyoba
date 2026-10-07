@@ -12,6 +12,7 @@ class Home extends BaseController
             'cappuccino' => ['name' => 'Cappuccino', 'price' => 28000],
             'latte'      => ['name' => 'Cafe Latte', 'price' => 30000],
             'v60'        => ['name' => 'V60', 'price' => 35000],
+            'vietnam drip' => ['name' => 'Vietnam Drip', 'price' => 25000],
         ];
 
         $errors = [];
